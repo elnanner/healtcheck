@@ -29,4 +29,5 @@ interface Check {
   name: string;
   status: string;
   responseTime: number;
+  description: string;
 }
